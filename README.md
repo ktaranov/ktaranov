@@ -1,11 +1,10 @@
 # Hi, I am Konstantin Taranov 👋
 
-I am a `{Data | Database} [Platform | Reliability]` Engineer.
+I am a `{Data | Database}` Engineer.
 
 I also:
 
 - help with Database problems
-- create moss art :deciduous_tree:
 - maintain [SQL Server KIT][SSK], SQL Server best practice and free scripts resource :free:, and orher awesome projects (see https://github.com/ktaranov)
 - help people, find my contacts here [Personal Site][taranovpro]
 
