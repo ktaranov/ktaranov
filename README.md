@@ -1,12 +1,12 @@
-# Hi, I am Konstantin Taranov 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=ktaranov&show_icons=true">
+
+# Hi, I am Konstantin 👋
 
 I am a `{Data | Database}` Engineer.
 
-I also:
-
 - help with Database problems
-- maintain [SQL Server KIT][SSK], SQL Server best practice and free scripts resource :free:, and orher awesome projects (see https://github.com/ktaranov)
-- help people, find my contacts here [Personal Site][taranovpro]
+- maintainer [SQL Server KIT][SSK]
+- help people,find my contacts here [Personal Site][taranovpro]
 
 ## Links
 
